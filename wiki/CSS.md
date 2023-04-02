@@ -140,3 +140,9 @@
   单行文字垂直居中：文本行高等于盒子的高度，line-height,行高小于盒子高度文字偏上，行高大于盒子高度文字偏下
 
 CSS的背景
+
+- 背景颜色：background-color:  **transparent** (透明度) #fff;transparent为默认，我们也可以手动添加；
+- 背景图片：background-image: none(默认没有背景) | url();优点是方便控制位置，
+- 背景平铺：background-repeat: repeat | no-repeat | repeat-x(x轴平铺) | repeat-y(y轴平铺)
+- 背景位置—方位名词：background-position: 0 0;
+
